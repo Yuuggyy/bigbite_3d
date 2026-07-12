@@ -3,13 +3,13 @@ import { createCommande } from '../lib/supabase';
 
 // ─── Couleurs Big Bite ───────────────────────────────────────
 const C = {
-  primary:    '#1A3A2A',
-  primaryMid: '#2D5E42',
-  gold:       '#B8943F',
-  goldLight:  '#D4AF6A',
-  beige:      '#F5EDD8',
-  cream:      '#FBF8F0',
-  dark:       '#1A1A14',
+  primary:    '#B83A00',
+  primaryMid: '#D94B00',
+  gold:       '#FF6B1A',
+  goldLight:  '#FF8C47',
+  beige:      '#FFF3ED',
+  cream:      '#FFFAF7',
+  dark:       '#1A0800',
   darkSoft:   'rgba(0,0,0,0.52)',
   border:     'rgba(255,107,26,0.20)',
   danger:     '#C0392B',
